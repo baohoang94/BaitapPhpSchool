@@ -1,0 +1,8 @@
+@charset "utf-8";
+/* CSS Document */
+ul li{position:relative; display:inline; margin-left:10px; float:left; }
+ul li a{color:#00F;}
+ul li a:hover{color:#FF0;}
+ul li a:active{color:#F00;}
+ul li ul{display:none; position:absolute; width:80px; margin-left:0px; background:#9FF;}
+ul li:hover ul{display:block;}

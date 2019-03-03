@@ -1,0 +1,81 @@
+@charset "utf-8";
+/* CSS Document */
+#wapter{
+	width:780px;
+	margin:0 auto;}
+#top{
+	width:780px;
+	float:left;
+	display:inline;
+}
+#top1{
+	float:left;
+	width:780px;
+	background-color:#0033fe;
+	margin-bottom:0 auto;
+	height:40px;
+}
+/*menu1*/
+#top1 ul{float:left;}
+#top1 ul li{
+	position:relative;
+	list-style:none;
+	display:inline;
+	float:left;
+	margin-left:20px;
+}
+#top1 ul li a{color:#FFF;}
+#top1 ul li a:hover {color:#FF0;}
+#top1 ul li a:active{color:#F00;}
+/*menu 2 */
+#top1 ul li ul{display:none; position:absolute;left:-10px; width:100px; background:#0FF; }
+#top1 ul li:hover ul{display:block;}
+
+
+
+#trai{
+	float:left;
+	width:140px;
+	background-color:#0099ff;
+	height:800px;
+}
+#bang{
+	margin:auto;
+}
+#center{
+	float:left;
+	width:500px;
+	
+}
+#chu{
+}
+#phai{
+	float:right;
+	width:140px;
+	background-color:#0099ff;
+	height:800px;
+}
+#bang2 img{
+	margin-top:3px;
+}
+#ct2{
+	margin-left:10px;
+	float:left;
+	height:132px;
+	width:460px;
+	margin-top:10px;
+}
+.ct2{
+	margin-left:10px;
+	float:left;
+	height:132px;
+	width:460px;
+	margin-top:20px;
+}
+.noidung{
+	float:right;
+	width:260px;
+	height:132px;
+
+}
+
